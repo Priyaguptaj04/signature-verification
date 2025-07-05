@@ -1,0 +1,11 @@
+opencv-python
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+albumentations
+tf-keras-vis
+seaborn
+gradio
+scikit-image
